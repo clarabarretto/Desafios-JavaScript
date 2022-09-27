@@ -1,0 +1,21 @@
+ @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
+
+:root{
+    --primary-color:#56889e;
+}
+
+body{
+    margin: 0;
+    padding: 10px;
+    background: var(--primary-color);
+    font-family: 'Open sans', sans-serif;
+    font-size: 1.3em;
+    line-height: 1.5em;
+}
+
+.list{
+    background-color: white;
+    margin-right: 1350px;
+    margin-top: 10px;
+}
+
